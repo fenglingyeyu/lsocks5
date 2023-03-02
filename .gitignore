@@ -1,0 +1,5 @@
+/bin
+/build
+/libuv-1.x
+.externalNativeBuild
+/msvc/.vs
